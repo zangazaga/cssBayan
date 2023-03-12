@@ -69,11 +69,7 @@ h1 {
 }
 
 
-/* @media (min-width:820px){
-    font-size: 20px;
-}
-@media(min-width:1920px){
-}     */
+
 
 @media (max-width: 365px) {
     h1{
